@@ -31,7 +31,7 @@
   }
   
   @font-face {
-    font-family: 'Circe';
+    font-family: "Circe";
     src: url('../fonts/Circe-ExtraLight.eot');
     src: local('☺'), url('../fonts/Circe-ExtraLight.woff') format('woff'), url('../fonts/Circe-ExtraLight.ttf') format('truetype'), url('../fonts/Circe-ExtraLight.svg') format('svg');
     font-weight: 100;
