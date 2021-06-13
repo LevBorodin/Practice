@@ -46,8 +46,7 @@
 }
 
 .nav-item:hover{
-    border: 2px solid white;
-    border-radius: 30px;
+    text-decoration: underline;
 }
 td:nth-child(1) { 
     color: rgb(115, 115, 255);
